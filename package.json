@@ -1,6 +1,7 @@
 {
   "name": "tcplib_poc_player",
   "private": true,
+  "version": "0.1.0",
   "homepage": "https://opherul.github.io/tcplib_poc_player",
   "type": "module",
   "scripts": {
